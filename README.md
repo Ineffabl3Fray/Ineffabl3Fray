@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on airline project.<br>⚡ Fun fact<br>Hi, I’m a software developer. <br>I have experience in web development. <br>I’m proficient in C#, JavaScript, React, Blazor, HTML, CSS, SQL, MySql and MongoDb. <br>I’m always eager to learn new technologies and frameworks to improve my skills. <br>You can check out my portfolio and code on GitHub. I’m open to collaborate with other developers. <br>Feel free to contact me if you have any questions or suggestions. Thanks for visiting my profile! 😊
+🔭 I’m currently working on airline project.<br>⚡ Fun fact<br>Hi, I’m a software developer. <br>I have experience in web development. <br>I’m proficient in C#, .NET Core, JavaScript, React, Blazor, HTML, CSS, SQL, MySql and MongoDb. <br>I’m always eager to learn new technologies and frameworks to improve my skills. <br>You can check out my portfolio and code on GitHub. I’m open to collaborate with other developers. <br>Feel free to contact me if you have any questions or suggestions. Thanks for visiting my profile! 😊
 
 
 ## 🌐 Socials:
